@@ -19,7 +19,7 @@
   text-align:center;
   color:  #3F3F58;
   margin: auto;
-  width: 30%;
+  width: 60%;
   border: 2px;
   border-style: solid;
   border-color: #3F3F58; 
