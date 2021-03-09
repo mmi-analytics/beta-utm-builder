@@ -114,7 +114,6 @@ input[type=text]:focus {
   <body>
 <div class="center">
 <br>
-<img width = 40% margin = auto src="https://mmi-analytics.github.io/Beta/lighthouse.png" alt="LHlogo">
 <img src="https://mmi-analytics.github.io/Beta/lighthouse.png" alt="Girl in a jacket">
 <div class="nest"> 
 <br>
