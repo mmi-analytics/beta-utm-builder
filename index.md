@@ -114,7 +114,7 @@ input[type=text]:focus {
   <body>
 <div class="center">
 <br>
-<img width = 40% margin = auto src="https://lh3.google.com/u/0/d/1Y20KfjKDHrmnPYOunflno21IiMqCy2Mn=w1920-h1009-iv1" alt="MMlogo">
+<img width = 40% margin = auto src="https://mmi-analytics.github.io/Beta/lighthouse.png" alt="LHlogo">
 <div class="nest"> 
 <br>
 <span style = "font-size: 18px">URL BUILDER</span>
