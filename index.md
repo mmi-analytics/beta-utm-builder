@@ -114,7 +114,7 @@ input[type=text]:focus {
   <body>
 <div class="center">
 <br>
-<img src="https://mmi-analytics.github.io/beta-utm-builder/lighthouse.png" alt="Girl in a jacket">
+<img src="https://mmi-analytics.github.io/beta-utm-builder/lighthouse.png" alt="LHlogo">
 <div class="nest"> 
 <br>
 <span style = "font-size: 18px">URL BUILDER</span>
