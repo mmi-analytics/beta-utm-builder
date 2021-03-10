@@ -127,7 +127,7 @@ input[type=text]:focus {
 <br>
 <label for="URL">Enter URL</label>
 <br>
-<input type="text" id="URL" name="URL" value="https://">
+<input type="text" id="URL" name="URL" value="">
 <br>
 <p>Publish Date<input type="text" id="datepicker"></p>
 <label for="channel">Select Social Channel</label>
