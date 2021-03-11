@@ -219,7 +219,7 @@ function copyFunction() {
 
 function clearFunction() {
   document.getElementById("output").value = "";
-  document.getElementById("URL").value = "https://";
+  document.getElementById("URL").value = "";
   document.getElementById("content_type").value = "";
   document.getElementById("media_type").value = "";
   document.getElementById("campaign_name").value = "";
