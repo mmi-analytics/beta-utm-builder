@@ -197,9 +197,16 @@ var campaign = campaign_name_lowercase.charAt(0).toUpperCase() + campaign_name_l
 var publish_date= document.getElementById("datepicker").value
 var publish_date_cleaned = publish_date.split('/').join('-');
 
+ if (URL == ""||channel == ""||media_type == ""||campaign == ""||publish_date_cleaned == ""||content_type == ""){
+  document.getElementById("output").style.color = "red";
+  document.getElementById("output").value ="PLEASE ENTER ALL FIELDS";
+} else {
+  
+
 document.getElementById("output").value =URL+channel+media_type+"&utm_campaign="+campaign+"&social_publish_date="+publish_date_cleaned+content_type;
 document.getElementById("output").style.color = "green";
 document.getElementById("generate").innerHTML = "Generate Again";
+}
 }
 
 function copyFunction() {
